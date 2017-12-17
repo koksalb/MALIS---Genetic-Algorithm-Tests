@@ -1,0 +1,6 @@
+Mutation rate: 0.100, Population size: 500
+Generation:    0, population size: 500, Round-trip length: 4150.056, best 4150.056
+Generation:    2, population size: 500, Round-trip length: 3956.987, best 3956.987
+Generation:    8, population size: 500, Round-trip length: 3719.450, best 3719.450
+Generation:   33, population size: 500, Round-trip length: 3413.822, best 3413.822
+Generation:  150, population size: 500, Round-trip length: 3293.180, best 3293.180

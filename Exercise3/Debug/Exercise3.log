@@ -1,0 +1,3 @@
+﻿  exercise3.cpp
+chromosome.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Exercise3.vcxproj -> C:\Users\koksa\Desktop\koksal\Debug\Exercise3.exe
